@@ -1,0 +1,32 @@
+[
+  {
+    "source_url": "https://huggingface.co/XHToken/Spark-X2.6-4B/resolve/main/images/benchmark.svg",
+    "source_sha256": "7efb3e04fc5c8e356727ba0ca1c401c16c3a3b007e3e942735e61c414bf0b3da",
+    "png_sha256": "d3e7ca51202ab1ddc3b4f4563bad8ffcbecf1a23226438c09c2b6310f63498fa",
+    "dimensions": [
+      3686,
+      2074
+    ],
+    "conversion": "resvg, 2x scale, white background; no content edits"
+  },
+  {
+    "source_url": "https://huggingface.co/XHToken/Spark-X2.6-4B/resolve/main/images/all_benchmark.svg",
+    "source_sha256": "0f766e6d6acc297031b56b104cb29c78ce235d4669c86dd76392792a41871983",
+    "png_sha256": "2478bc24edba2f66b8d83bf002526a91f399ca85a8bcae3125b5db3499c89e01",
+    "dimensions": [
+      2000,
+      3238
+    ],
+    "conversion": "resvg, 2x scale, white background; no content edits"
+  },
+  {
+    "source_url": "https://huggingface.co/XHToken/Spark-X2.6-4B/resolve/main/images/inference.svg",
+    "source_sha256": "a4e2a93633aebdc81037d42c649126ebefb2b52051fc639681a60e1f363456b4",
+    "png_sha256": "12de434a5e2f903baa01431f045939949b5d63d17ec9859497fa1f3b836b08c9",
+    "dimensions": [
+      2880,
+      2160
+    ],
+    "conversion": "resvg, 2x scale, white background; no content edits"
+  }
+]
