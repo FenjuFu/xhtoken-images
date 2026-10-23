@@ -1,0 +1,37 @@
+{
+  "event": "https://github.com/XHToken/Spark-X2.6/issues/16",
+  "revision": "v4",
+  "campaign": "Turn barriers into access",
+  "files": [
+    {
+      "path": "poster-en.png",
+      "source_filename": "poster-en-v4.png",
+      "sha256": "b72317a839f3f5cd3eed39d04d71a774843e9a18afb7b1c6fc021973ae141d67",
+      "bytes": 2555541,
+      "pixels": [
+        2160,
+        3840
+      ]
+    },
+    {
+      "path": "poster-zh.png",
+      "source_filename": "poster-zh-v4.png",
+      "sha256": "1a072a0c97ffb0394bee4c6bdbdb0f2b1a2e1c2485b301e83060a92bbe534cfa",
+      "bytes": 2674223,
+      "pixels": [
+        2160,
+        3840
+      ]
+    },
+    {
+      "path": "poster-en-social.jpg",
+      "source_filename": "poster-en-v4-social.jpg",
+      "sha256": "6e8120c09eefd2c6652de7c0b4831b65787116ad72756c1a0f271d6076632c12",
+      "bytes": 796851,
+      "pixels": [
+        2160,
+        3840
+      ]
+    }
+  ]
+}
