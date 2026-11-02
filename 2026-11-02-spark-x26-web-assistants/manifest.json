@@ -1,0 +1,48 @@
+{
+  "capturedAt": "2026-11-02",
+  "description": "Real English Q&A recordings from two Spark-X2.6-4B web assistants. Idle wait shortened only where labeled; MP4 files retain the full capture.",
+  "assets": [
+    {
+      "name": "spark-x26-learning-assistant.gif",
+      "path": "2026-11-02-spark-x26-web-assistants/spark-x26-learning-assistant.gif",
+      "bytes": 253413,
+      "sha256": "1c7802743556102fdb6cd4855d531a4ceb2734f68eaac4c60e0c947d67e156be"
+    },
+    {
+      "name": "spark-x26-astron-ai-chat.gif",
+      "path": "2026-11-02-spark-x26-web-assistants/spark-x26-astron-ai-chat.gif",
+      "bytes": 109852,
+      "sha256": "6fe4daebf1195ad5dd63b1926447f00011c5496a5af538660bca31f9b7948d2b"
+    },
+    {
+      "name": "spark-x26-two-web-assistants.gif",
+      "path": "2026-11-02-spark-x26-web-assistants/spark-x26-two-web-assistants.gif",
+      "bytes": 907003,
+      "sha256": "cd987c8ac89951a6c88ed098140f53e20bd73c81fa849c6a5362e6d28f89adc9"
+    },
+    {
+      "name": "spark-x26-learning-assistant-realtime.mp4",
+      "path": "2026-11-02-spark-x26-web-assistants/spark-x26-learning-assistant-realtime.mp4",
+      "bytes": 134769,
+      "sha256": "7101cc687e70b30dd6aea4fa8d400c820bab9ed1988c3e3af776aecb45ad7bb2"
+    },
+    {
+      "name": "spark-x26-astron-ai-chat-realtime.mp4",
+      "path": "2026-11-02-spark-x26-web-assistants/spark-x26-astron-ai-chat-realtime.mp4",
+      "bytes": 256187,
+      "sha256": "4c128f3a81afff5fe3c4c909750d69394b6ecceb9143c7e7a564aa2809fb85a6"
+    },
+    {
+      "name": "spark-x26-learning-assistant-preview.png",
+      "path": "2026-11-02-spark-x26-web-assistants/spark-x26-learning-assistant-preview.png",
+      "bytes": 193639,
+      "sha256": "208c191ccc3d71c9563fe6f9adef87edb2c5d04ea8f084735e6fdcc7da5c9e8f"
+    },
+    {
+      "name": "spark-x26-astron-ai-chat-preview.png",
+      "path": "2026-11-02-spark-x26-web-assistants/spark-x26-astron-ai-chat-preview.png",
+      "bytes": 94801,
+      "sha256": "69d326a8d42ca22496e53cc366b4527d9b4237435f0bf607dcfabfeb2f2d6fc9"
+    }
+  ]
+}
