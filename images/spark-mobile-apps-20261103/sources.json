@@ -1,0 +1,43 @@
+[
+  {
+    "file": "tokenspark.png",
+    "source": "https://tokenspark.xunfei.cn/#android",
+    "provenance": "user-provided original screenshot; original page rechecked 2026-11-03",
+    "sha256": "5d6ba0f1bbfd312c50bb439f1bffab216a7a2144b98b2eb683c5a6a92bc4f056"
+  },
+  {
+    "file": "pocketpal-accuracy.png",
+    "source": "https://pocketpal.dev/evals/web-search",
+    "provenance": "user-provided original screenshot; original page rechecked 2026-11-03",
+    "sha256": "5f22f7d2d554f9ade9a4a82077482ede0258c455d528ff04f8ae262235435a79"
+  },
+  {
+    "file": "pocketpal-table.png",
+    "source": "https://pocketpal.dev/evals/web-search",
+    "provenance": "user-provided original screenshot; original page rechecked 2026-11-03",
+    "sha256": "155a52566bd778ff4ef2bf1cc50322fa6f17266859052adced04039a876490a2"
+  },
+  {
+    "file": "pocketpal-size.png",
+    "source": "https://pocketpal.dev/evals/web-search",
+    "provenance": "user-provided original screenshot; original page rechecked 2026-11-03",
+    "sha256": "1f66d60f6ea32cda2de215184335ead1b1663a12896c9e813b2b668b7116e29c"
+  },
+  {
+    "file": "llamapal.jpg",
+    "source": "https://x.com/vishistvv/status/2116094527522152863",
+    "media_url": "https://pbs.twimg.com/media/HV3gwOPaYAAjYhU?format=jpg&name=large",
+    "published_at": "2026-10-30T09:07:05.000Z",
+    "published_beijing": "2026-10-30 17:07:05 +08:00",
+    "sha256": "aac69099be0235de5d2a2fcd523ed13f69c31ec6e6277a5fdf312165d04a9deb"
+  },
+  {
+    "file": "local-llm-canvas.jpg",
+    "source": "https://x.com/TonyZ278264/status/2114415748257022091",
+    "media_url": "https://pbs.twimg.com/amplify_video_thumb/2114415688102051841/img/-S1git2lClSj-ZQJ.jpg",
+    "provenance": "original video poster, not an independently reproduced result",
+    "published_at": "2026-10-25T17:56:12.000Z",
+    "published_beijing": "2026-10-26 01:56:12 +08:00",
+    "sha256": "b6c21ea6721ab860f3f542f11d638c6aa00fc79d26b5dcc315a7e28571bf3dec"
+  }
+]
