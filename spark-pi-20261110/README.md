@@ -1,0 +1,1 @@
+Data cards by SparkLLM. Source: https://ai-tier.com/results/raspberry-pi-5/spark-x2-5-1-7b/ . Third-party measurements dated 2026-10-19 UTC, not independently rerun. Original HTML/CSS layouts; no source artwork reproduced.
